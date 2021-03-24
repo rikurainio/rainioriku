@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on web application projects.
 
 socials:
--discord: Rhan#5498
--email: rkurainio@gmail.com
--instagram: oiniar
+- discord: Rhan#5498
+- email: rkurainio@gmail.com
+- instagram: oiniar
 
 <!---
 rainioriku/rainioriku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
